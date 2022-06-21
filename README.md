@@ -2,11 +2,12 @@
 
 | Exercice  1| 
 Marker
-sh 
+```sh
 roscore
-sh
+```sh
 source tp_robo_Jebodh/devel/setup.bash
-sh
+```sh
 rosrun marker_visualizer publish_marker.py
-sh 
+```sh 
 rviz
+```
